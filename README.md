@@ -58,10 +58,12 @@ Step 7: Prediction and Visualization
 Step 8: Fine-Tuning and Optimization
 
 1. Experiment with different hyperparameters, such as the number of LSTM units and layers, batch size, and learning rate.
-2.Perform hyperparameter tuning to find the best configuration for your model.
+2. Perform hyperparameter tuning to find the best configuration for your model.
 
 Step 9: Conclusion and Interpretation
 
 1. Analyze the performance of the LSTM model in predicting stock prices.
 2. Interpret the results, considering the model's strengths, limitations, and potential areas of improvement.
-Remember that while LSTM models can provide insights into stock price trends, actual stock market behavior is influenced by various complex factors. Predictions should be used for informational purposes and not solely for making investment decisions. It's important to continually refine and validate your model to improve its accuracy and reliability
+
+   
+Remember that while LSTM models can provide insights into stock price trends, actual stock market behaviour is influenced by various complex factors. Predictions should be used for informational purposes and not solely for making investment decisions. It's important to continually refine and validate your model to improve its accuracy and reliability
